@@ -43,10 +43,11 @@ Cheio		      🟢
 
 Médio		      🟡
 
-Baixo 	      🟠 
+Baixo 	          🟠 
 
 Vazio		      🔴
     
+<img width="747" height="418" alt="image" src="https://github.com/user-attachments/assets/e305c213-6dc8-43aa-8f9c-ca2f4bd31af3" />
 
 --------------------------------
 
