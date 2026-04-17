@@ -43,7 +43,11 @@ Médio		      🟡
 Baixo 	          🟠 
 
 Vazio		      🔴
-    
+
+<img width="754" height="429" alt="image" src="https://github.com/user-attachments/assets/8c04bf8e-c92e-4fd0-981d-8fdd23ad5316" />
+<img width="753" height="426" alt="image" src="https://github.com/user-attachments/assets/071a51fd-047e-4ccc-bf8f-24745bc09dbd" />
+
+
 <img width="747" height="418" alt="image" src="https://github.com/user-attachments/assets/e305c213-6dc8-43aa-8f9c-ca2f4bd31af3" />
 
 --------------------------------
