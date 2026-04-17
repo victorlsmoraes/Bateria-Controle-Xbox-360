@@ -34,9 +34,6 @@ Framework: .NET 8.0 (Windows Forms)
 Arquitetura: x64 (Autossuficiente)
 
 
-💡 Dica de Ouro: Adicione imagens!
-No GitHub, uma imagem vale mais que mil palavras de código. Como você já tem os ícones (battery_full, battery_low, etc.), você pode criar uma pequena tabela no seu README para mostrar o que cada ícone significa:
-
 Status:		ícone:		
 
 Cheio		      🟢
